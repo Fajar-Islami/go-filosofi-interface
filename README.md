@@ -1,5 +1,5 @@
 # go-filosofi-interface
-## Kami Setuju Implemen Interface pada Golang
+## Kami Tidak Setuju untuk (tidak) Implemen Interface pada Golang
 
 
 ChatGPT said:  
